@@ -11,6 +11,7 @@ My goal is to build a strong foundation and prepare for top tech interviews (MAA
 
 | Topic          | Problems Solved | Last Updated |
 |----------------|------------------|---------------|
+| Big O          | 0                | -             |
 | Arrays         | 0                | -             |
 | Strings        | 0                | -             |
 | Linked Lists   | 0                | -             |
@@ -20,6 +21,7 @@ My goal is to build a strong foundation and prepare for top tech interviews (MAA
 ---
 
 <pre> ## 🗂️ Folder Structure ``` My_DSA_Journey/ 
+├── Big O/
 ├── Arrays/ 
 ├── Strings/ 
 ├── LinkedLists/ 
