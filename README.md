@@ -19,15 +19,7 @@ My goal is to build a strong foundation and prepare for top tech interviews (MAA
 
 ---
 
-## 🗂️ Folder Structure
-
-My_DSA_Journey/
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── Trees/
-├── Graphs/
-└── README.md
+<pre> ## 🗂️ Folder Structure ``` My_DSA_Journey/ ├── Arrays/ ├── Strings/ ├── LinkedLists/ ├── Trees/ ├── Graphs/ └── README.md ``` </pre>
 
 
 Each file will contain:
