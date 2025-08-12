@@ -56,10 +56,10 @@ This folder ensures I **enter DSA fully prepared** and confident.
 │   └── lists\_to\_dict.py
 │
 └── 04\_Loop\_Condition\_Challenges/
-├── sum\_of\_digits.py
-├── multiplication\_table.py
-├── number\_patterns.py
-└── armstrong\_number.py
+     ├── sum\_of\_digits.py
+     ├── multiplication\_table.py
+     ├── number\_patterns.py
+     └── armstrong\_number.py
 
 ```
 
