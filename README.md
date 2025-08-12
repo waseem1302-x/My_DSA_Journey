@@ -34,47 +34,6 @@ Before jumping into core DSA topics, I created `01_Pre_DSA` to **solidify Python
 
 ---
 
-<<<<<<< HEAD
-<pre> ## 🗂️ Folder Structure ```
-My_DSA_Journey/
-├── 01_Pre_DSA/
-│   ├── 01_Simple_Logic_Problems/
-│   │   ├── fizzbuzz.py
-│   │   ├── palindrome.py
-│   │   ├── fibonacci.py
-│   │   ├── factorial.py
-│   │   └── prime_check.py
-│   │
-│   ├── 02_List_String_Problems/
-│   │   ├── reverse_string_list.py
-│   │   ├── find_max_min.py
-│   │   ├── count_vowels.py
-│   │   ├── remove_duplicates.py
-│   │   └── merge_sorted_lists.py
-│   │
-│   ├── 03_Dict_Set_Practice/
-│   │   ├── word_frequency.py
-│   │   ├── first_non_repeating_char.py
-│   │   ├── set_operations.py
-│   │   └── lists_to_dict.py
-│   │
-│   └── 04_Loop_Condition_Challenges/
-│       ├── sum_of_digits.py
-│       ├── multiplication_table.py
-│       ├── number_patterns.py
-│       └── armstrong_number.py
-│
-├── 02_Big_O/
-├── 03_Arrays/
-├── 04_Strings/
-├── 05_LinkedLists/
-├── 06_Trees/
-├── 07_Graphs/
-└── README.md ``` </pre>
-=======
-## 🗂️ Folder Structure (Corrected)
->>>>>>> 0cf319d34259172008d7ae08f6b9f3de38ee87d5
-
 ```
 My_DSA_Journey/
 ├── 01_Pre_DSA/
