@@ -3,7 +3,7 @@
 # Example: n = 5 -> 120
 # Time Complexity: Iterative O(n), Recursive O(n)
 
-n = 5
+n = int(input("Enter Number: "))
 result = 1
 for i in range(1, n + 1):
     result  = result * i
