@@ -1,7 +1,6 @@
-arr = [1,3,5,7,9,12]
-target = 12
+arr = [1,3,5,7,9,12] 
 
-def two_pointers(arr):
+def two_pointers(arr, target):
 
     left = 0                 
     right = len(arr) - 1      
@@ -10,7 +9,7 @@ def two_pointers(arr):
         curr_sum = arr[left] + arr[right]
 
         if curr_sum == target:
-            return True 
+            return target 
         elif curr_sum < target:
             left += 1    # need a bigger sum → move left forward
         else:
@@ -19,6 +18,4 @@ def two_pointers(arr):
     return False  # no pair found
 
 
-print(two_pointers(arr))
-
-
+print(two_pointers(arr, 12))
